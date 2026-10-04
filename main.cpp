@@ -100,9 +100,9 @@ void update() {
         gWalkTime = 0.0f;
     }
 
-    gScale = Vector2{ // Based on the 
+    gScale = Vector2{
         BASE_SIZE.x + MAX_AMP * sinf(gPulseTime),
-        BASE_SIZE.y + MAX_AMP * tanf(gPulseTime) // Made this tangent as I love getting it giant for no reason!
+        BASE_SIZE.y + MAX_AMP * tanf(gPulseTime) // Made this tangent as I love it becoming giant!
     };
 
     // Backpack position relative to stickman
