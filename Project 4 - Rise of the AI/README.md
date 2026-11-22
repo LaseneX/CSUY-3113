@@ -12,4 +12,4 @@
 
 
 
-1) Intentionally made it so that ravens and ghosts can ignore platforms
+1) Intentionally made it so that ravens can ignore platforms and ghosts cannot (I love subverting expectations!)
